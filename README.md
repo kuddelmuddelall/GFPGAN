@@ -9,7 +9,6 @@ GFPGAN is a blind face restoration algorithm towards real-world face images.
 
 ### :book: GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior
 > [[Paper](https://arxiv.org/abs/2101.04061)] &emsp; [[Project Page](https://xinntao.github.io/projects/gfpgan)] &emsp; [Demo] <br>
-> ![image](https://user-images.githubusercontent.com/81159957/125622379-565a5807-3b57-4dba-a378-8a2d9c3686d2.png)
 > Applied Research Center (ARC), Tencent PCG
 
 #### Abstract
